@@ -1,0 +1,15 @@
+/home/nelbom1234/Documents/H1/KrydsogBolle/bin/Debug/net8.0/KrydsogBolle
+/home/nelbom1234/Documents/H1/KrydsogBolle/bin/Debug/net8.0/KrydsogBolle.deps.json
+/home/nelbom1234/Documents/H1/KrydsogBolle/bin/Debug/net8.0/KrydsogBolle.runtimeconfig.json
+/home/nelbom1234/Documents/H1/KrydsogBolle/bin/Debug/net8.0/KrydsogBolle.dll
+/home/nelbom1234/Documents/H1/KrydsogBolle/bin/Debug/net8.0/KrydsogBolle.pdb
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.AssemblyInfoInputs.cache
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.AssemblyInfo.cs
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.csproj.CoreCompileInputs.cache
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.sourcelink.json
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.dll
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/refint/KrydsogBolle.dll
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.pdb
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/KrydsogBolle.genruntimeconfig.cache
+/home/nelbom1234/Documents/H1/KrydsogBolle/obj/Debug/net8.0/ref/KrydsogBolle.dll
